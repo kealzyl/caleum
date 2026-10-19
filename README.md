@@ -8,7 +8,7 @@
 
 <br>
 
-### You can find the pretrained model on [HuggingFace](https://huggingface.co/Kealzyl/caleum) trained on Romania/Bucharest
+### ! You can find the pretrained model on [HuggingFace](https://huggingface.co/Kealzyl/caleum) trained on Romania/Bucharest !
 
 **Caleum** is an experimental AI-powered weather prediction model developed in Python using PyTorch and GPU-accelerated CUDA training. It learns patterns from historical weather observations to predict upcoming atmospheric conditions.
 
